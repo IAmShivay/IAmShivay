@@ -13,7 +13,7 @@ Hii I am shivay😁 currently student pursuing B.sc in chemistry. I have lot of 
 <!-- - 👯 I’m looking to collaborate on : Nothing -->
 <!-- - 🤔 I’m looking for help with : Nothing -->
 <!-- - 💬 Ask me about ... -->
-- Email me:Shivaysharma77893@gmail.com
+- 📫 How to reach me:Shivaysharma77893@gmail.com
 - Twitter:https://twitter.com/TscaRookie
 - linkedin:https://www.linkedin.com/in/shivay-sharma-39733a230
 - YouTube:https://www.youtube.com/channel/UCCxQDwND-H5dAliN1J_wXpQ
