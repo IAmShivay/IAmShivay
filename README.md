@@ -10,8 +10,8 @@ Hii I am shivay😁 currently student pursuing B.sc in chemistry. I have lot of 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Unreal" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<!--   <img alt="Unreal" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> -->
   <img alt="VScode" src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=style=flat-square&logo=github&logoColor=white" />
@@ -20,8 +20,8 @@ Hii I am shivay😁 currently student pursuing B.sc in chemistry. I have lot of 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="AWS"src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
+<!--   <img alt="AWS"src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+</p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamshivay&label=Profile%20views&color=0e75b6&style=flat" alt="iamshivay" /> </p>
 
@@ -40,8 +40,8 @@ Hii I am shivay😁 currently student pursuing B.sc in chemistry. I have lot of 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-
+<!-- <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+ -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshivay&show_icons=true&locale=en&layout=compact" alt="iamshivay" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamshivay&show_icons=true&locale=en" alt="iamshivay" /></p>
