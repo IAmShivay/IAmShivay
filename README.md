@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shivay</h1>
 
-| Web3 Engineer | Crafting the Future of the Web | Pro Level Gamer
+Web3 Engineer | Crafting the Future of the Web
 
 Hii I am shivay😁 currently student pursuing B.sc in chemistry. I have lot of interest in codding and Programing. I started my journey to codding and programing after completion of my secondary education to know basic fundament of computer I was started with DCA (Diploma in computer Application) After completing of it I just started to learn coding and programing with YouTube video and free torrents courses😅. after learning of some basics, I taken a course in alma better for web 3 full stack developer. Further details will be updated soon😁
 
