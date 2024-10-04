@@ -5,7 +5,7 @@ Hi 👋 My name is Shivay Sharma
 MERN Full Stack Devloper Web3 Engineer | Crafting the Future of the Web
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [shiva-y.live](http://shiva-y.live)
+* 🖥️  See my portfolio at [shiva-y.live](https://shivaysharma.vercel.app/)
 * ✉️  You can contact me at [shivaysharma77893@gmail.com](mailto:shivaysharma77893@gmail.com)
 * 🚀  I'm currently working on [Gaming Platform](http://#)
 * 🧠  I'm learning Next . Js
