@@ -1,41 +1,191 @@
+# Hi there, I'm Shivay Sharma 👋
 
-Hi 👋 My name is Shivay Sharma
-==============================
+## MERN Full Stack Developer | 2+ Years Experience
 
-MERN Full Stack Devloper Web3 Engineer | Crafting the Future of the Web
+I'm a passionate full-stack developer specializing in building scalable web applications and intelligent business solutions. With over 2 years of hands-on experience, I transform ideas into robust, user-friendly digital products that drive real business value.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [shiva-y.live](https://shivaysharma.vercel.app/)
-* ✉️  You can contact me at [shivaysharma77893@gmail.com](mailto:shivaysharma77893@gmail.com)
-* 🚀  I'm currently working on [Gaming Platform](http://#)
-* 🧠  I'm learning Next . Js
-* 🤝  I'm open to collaborating on New Ideas
+🌍 **Location:** India  
+💼 **Currently:** Open to Backend Developer, Full Stack Developer, and Junior MERN Stack roles  
+🚀 **Working On:** Sales CRM with AI Integration - Building intelligent business automation tools  
+🧠 **Learning:** Next.js, AI/ML Integration, and Advanced Backend Architecture  
+🌐 **Portfolio:** [shivay sharma](https://shivaydev.vercel.app/)  
+✉️ **Email:** [shivaysharmachemistry@gmail.com](mailto:shivaysharmachemistry@gmail.com)
 
-<a href="https://www.github.com/iAmShivay" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/iAmShivay?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/TscaRookie" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/TscaRookie?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+---
 
-### Skills
+## 💼 Professional Summary
 
+- ✅ **2+ years** of professional experience in full-stack web development
+- ✅ Expert in **MERN stack** (MongoDB, Express.js, React.js, Node.js)
+- ✅ Building production-ready applications with **AI integration** and automation
+- ✅ Strong focus on **scalable architecture**, clean code, and best practices
+- ✅ Experience in **CRM systems**, business automation, and API development
+- ✅ Passionate about solving real-world problems with technology
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-</p>
+---
 
+## 🛠️ Technical Skills
 
-### Socials
+### Frontend Development
+- **Core:** React.js, Next.js, JavaScript (ES6+), TypeScript
+- **Styling:** HTML5, CSS3, TailwindCSS, Bootstrap, Responsive Design
+- **State Management:** Redux, Context API, React Hooks
+- **UI/UX:** Material-UI, Ant Design, Chakra UI
 
-<p align="left"> <a href="https://www.github.com/iAmShivay" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/iamshivay" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/24506819/shivay" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/TscaRookie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+### Backend Development
+- **Runtime:** Node.js, Express.js
+- **Databases:** MongoDB, Mongoose, SQL
+- **APIs:** RESTful APIs, GraphQL, JWT Authentication
+- **Real-time:** Socket.io, WebSockets
+- **AI Integration:** OpenAI API, AI-powered features
 
-### Badges
+### DevOps & Tools
+- **Version Control:** Git, GitHub, GitLab
+- **Deployment:** Vercel, Netlify, Heroku, AWS basics
+- **Tools:** VS Code, Postman, npm/yarn, Docker basics
+- **Testing:** Jest, React Testing Library
+- **Project Management:** Agile, Scrum methodologies
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/iAmShivay"><img src="https://github-readme-stats.vercel.app/api?username=iAmShivay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iAmShivay's GitHub stats" /></a>
+## 🎯 What I'm Looking For
 
-<a href="http://www.github.com/iAmShivay"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iAmShivay&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+I'm actively seeking opportunities in:
 
-<a href="https://github.com/iAmShivay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAmShivay&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Preferred Roles:**
+- 🎯 Backend Developer
+- 🎯 Full Stack Developer (MERN)
+- 🎯 Junior/Mid-Level Software Engineer
+- 🎯 Node.js Developer
 
+**What I Bring:**
+- Strong problem-solving skills and ability to learn quickly
+- Experience building real-world applications from scratch
+- Collaborative mindset with excellent communication skills
+- Passion for writing clean, maintainable, and efficient code
 
+I'm looking to join innovative teams where I can contribute meaningfully, grow my skills, and work on impactful projects. Open to remote, hybrid, or on-site opportunities.
+
+---
+
+## 💡 Current Focus
+
+### Sales CRM with AI Integration
+Building a comprehensive Customer Relationship Management system with intelligent automation:
+- **AI-Powered Features:** Automated lead scoring, email generation, and customer insights
+- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, OpenAI API
+- **Key Features:** Contact management, sales pipeline tracking, analytics dashboard, AI assistance
+- **Focus Areas:** Performance optimization, real-time updates, secure authentication
+
+This project showcases my ability to integrate modern AI technologies into practical business solutions.
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm enthusiastic about collaborating on:
+- Full-stack web applications
+- CRM and business automation tools
+- AI-integrated applications
+- Open-source projects
+- API development and microservices
+- Innovative SaaS products
+
+Have an interesting project or idea? Let's connect and build something amazing together!
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IAmShivay&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+[![Shivay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IAmShivay&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/IAmShivay)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmShivay&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/IAmShivay)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shivaydev.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivaysharma77893@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IAmShivay)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Sales CRM with AI Integration
+A modern CRM platform that leverages AI to streamline sales processes and improve customer relationships.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, OpenAI API, TailwindCSS  
+**Key Features:**
+- AI-powered lead scoring and customer insights
+- Automated email composition and follow-ups
+- Real-time sales pipeline visualization
+- Advanced analytics and reporting dashboard
+- Secure authentication and role-based access control
+
+**Highlights:** Implemented AI integration for intelligent automation, built RESTful APIs, optimized database queries for performance
+
+---
+
+### 🎮 Gaming Platform
+An engaging web-based gaming platform with real-time multiplayer capabilities.
+
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Socket.io  
+**Key Features:**
+- Real-time multiplayer functionality
+- User authentication and profiles
+- Leaderboards and statistics
+- Responsive design for all devices
+
+**Highlights:** Implemented real-time communication, managed complex state, built scalable backend architecture
+
+## 📈 Professional Journey
+
+**2022 - Present** | Building Production Applications
+- Developed and deployed multiple full-stack applications
+- Specialized in MERN stack development
+- Integrated AI capabilities into business applications
+- Collaborated with cross-functional teams
+- Continuously learning and adapting to new technologies
+
+---
+
+## 💭 My Development Philosophy
+
+> "Clean code, scalable architecture, and user-centric design are not just best practices—they're essential for building products that matter."
+
+I believe in:
+- Writing code that's easy to read and maintain
+- Building features that solve real problems
+- Continuous learning and improvement
+- Collaboration and knowledge sharing
+- Testing and documentation as core development practices
+
+---
+
+<div align="center">
+
+### ⭐️ Open to Full-Time & Contract Opportunities ⭐️
+
+**Let's build something amazing together!**
+
+*If you find my work interesting, don't hesitate to reach out or star ⭐ my repositories!*
+
+</div>
+
+---
+
+**Last Updated:** January 2026
