@@ -84,19 +84,9 @@ Web-based gaming platform with real-time multiplayer.
 
 <div align="center">
 
-<!-- Using Alternative Working Instances -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IAmShivay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IAmShivay&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <!-- GitHub Streak (Alternative Instance) -->
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=IAmShivay&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IAmShivay&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=IAmShivay&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
